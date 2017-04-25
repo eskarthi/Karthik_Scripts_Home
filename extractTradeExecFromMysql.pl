@@ -15,27 +15,16 @@ my $julian_date=$ARGV[0];
 my $checkhost=$ARGV[1];
 my $qry_format=$ARGV[2];
 
-# ASIA PROD
-#=======================
-#my @AS_HOSTS=("tkodclxeqprd030", "tkodclxeqprd099");
-#my $AS_DB_USER="root";
-#my $AS_DB_PSWD="";
-#my $AS_DB_NAME="ws_data";
 
-# ASIA STAGE
-#=======================
-#my @AS_HOSTS=("tkodclxeqcat094", "tkodclxeqcat100");
-#my @AS_HOSTS=("tkodclxeqcat100");
-
-my @AS_HOSTS=("tklxeqprd099", "tklxeqprd092");
+my @AS_HOSTS=("prd099", "eqprd092");
 my $AS_DB_USER="root";
 my $AS_DB_PSWD="";
 my $AS_DB_NAME="ws_data";
 
-my $LOG_DIR="/local/0/appslog/cstprod/recon";
+my $LOG_DIR="/local/0/test/cstprod/recon";
 my $inputFile="";
 
-my $SQL_PATH ="/home/cstprod/mysql/bin/mysql";
+my $SQL_PATH ="/home/test/mysql/bin/mysql";
 
 
 my $TARGET_LOCATION="";
@@ -54,7 +43,7 @@ switch  ($checkhost) {
 
                  case "99"
                         {
-                         $host="tklxeqprd099";
+                         $host="eqprd099";
 			 $inputFile="/home/aseqpmgp/CCT/SPS/prod/bin/recon/QPSClientsTradeReport.txt";
                          print "Host $host ..\n" ;
                          break;
@@ -62,7 +51,7 @@ switch  ($checkhost) {
 
                  case "92"
                         {
-                         $host="tklxeqprd092";
+                         $host="092";
 			 $inputFile="/home/aseqpmgp/CCT/SPS/prod/bin/recon/QPSClientsTradeReport.txt";
                          print "Host $host ..\n" ;
                          break;
@@ -71,7 +60,7 @@ switch  ($checkhost) {
 
                  case "04"
                         {
-                         $host="tkodclxeqcstprd004";
+                         $host="prd004";
 			 $inputFile="/home/aseqpmgp/CCT/SPS/prod/bin/recon/QPSClientGTradeReport.txt";
                          print "Host $host , FileName :$inputFile..\n" ;
 
@@ -80,7 +69,7 @@ switch  ($checkhost) {
 
 		 case "odc099"
                         {
-                         $host="tkodclxeqprd099";
+                         $host="qprd099";
                          $inputFile="/home/aseqpmgp/CCT/SPS/prod/bin/recon/QPSClientTTradeReport.txt";
                          print "SPBGW Host $host ..\n" ;
                          break;

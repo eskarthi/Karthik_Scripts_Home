@@ -28,21 +28,21 @@ my $yyyymmdd=&getYYYYMMDD;
 my $sod_fileName ="";
 my $eod_fileName = "";
 
-#my $sod_fileName = "/home/svcegctp/prod/bin/scripts/recon/data/20100131/position.txt";
-#my $eod_fileName = "/home/svcegctp/prod/bin/scripts/recon/data/20100131/eodPositionFile.csv";
+#my $sod_fileName = "/home/test/prod/bin/scripts/recon/data/20100131/position.txt";
+#my $eod_fileName = "/home/test/prod/bin/scripts/recon/data/20100131/eodPositionFile.csv";
 
 
 if ( $qry_format eq "all" )
 {
-$sod_fileName = "/home/svcegctp/prod/bin/scripts/recon/data/$yyyymmdd/position.txt";
-$eod_fileName = "/home/svcegctp/prod/bin/scripts/recon/data/$yyyymmdd/eodPositionFile.csv";
+$sod_fileName = "/home/test/prod/bin/scripts/recon/data/$yyyymmdd/position.txt";
+$eod_fileName = "/home/test/prod/bin/scripts/recon/data/$yyyymmdd/eodPositionFile.csv";
 
 }
 
 if ( $qry_format eq "getco" )
 {
- $sod_fileName = "/home/svcegctp/prod/bin/scripts/recon/data/ClientG_$yyyymmdd/position.txt";
- $eod_fileName = "/home/svcegctp/prod/bin/scripts/recon/data/ClientG_$yyyymmdd/eodPositionFile.csv";
+ $sod_fileName = "/home/test/prod/bin/scripts/recon/data/ClientG_$yyyymmdd/position.txt";
+ $eod_fileName = "/home/test/prod/bin/scripts/recon/data/ClientG_$yyyymmdd/eodPositionFile.csv";
 }
 
 
