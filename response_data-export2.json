@@ -1,0 +1,491 @@
+{
+"links": {},
+"origin": "https://localhost:8089/services/properties",
+"updated": "2018-03-05T17:03:24+08:00",
+"generator": {
+"build": "03bbabbd5c0f",
+"version": "7.0.2"
+},
+"entry": [
+  {
+"name": "alert_actions",
+"id": "https://localhost:8089/services/properties/alert_actions",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/alert_actions"
+}
+},
+  {
+"name": "alert_overlay",
+"id": "https://localhost:8089/services/properties/alert_overlay",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/alert_overlay"
+}
+},
+  {
+"name": "alerts",
+"id": "https://localhost:8089/services/properties/alerts",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/alerts"
+}
+},
+  {
+"name": "app",
+"id": "https://localhost:8089/services/properties/app",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/app"
+}
+},
+  {
+"name": "authentication",
+"id": "https://localhost:8089/services/properties/authentication",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/authentication"
+}
+},
+  {
+"name": "authorize",
+"id": "https://localhost:8089/services/properties/authorize",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/authorize"
+}
+},
+  {
+"name": "checklist",
+"id": "https://localhost:8089/services/properties/checklist",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/checklist"
+}
+},
+  {
+"name": "collections",
+"id": "https://localhost:8089/services/properties/collections",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/collections"
+}
+},
+  {
+"name": "commands",
+"id": "https://localhost:8089/services/properties/commands",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/commands"
+}
+},
+  {
+"name": "conf",
+"id": "https://localhost:8089/services/properties/conf",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/conf"
+}
+},
+  {
+"name": "datamodels",
+"id": "https://localhost:8089/services/properties/datamodels",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/datamodels"
+}
+},
+  {
+"name": "datatypesbnf",
+"id": "https://localhost:8089/services/properties/datatypesbnf",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/datatypesbnf"
+}
+},
+  {
+"name": "default-mode",
+"id": "https://localhost:8089/services/properties/default-mode",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/default-mode"
+}
+},
+  {
+"name": "distsearch",
+"id": "https://localhost:8089/services/properties/distsearch",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/distsearch"
+}
+},
+  {
+"name": "dmc_alerts",
+"id": "https://localhost:8089/services/properties/dmc_alerts",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/dmc_alerts"
+}
+},
+  {
+"name": "event_renderers",
+"id": "https://localhost:8089/services/properties/event_renderers",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/event_renderers"
+}
+},
+  {
+"name": "eventdiscoverer",
+"id": "https://localhost:8089/services/properties/eventdiscoverer",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/eventdiscoverer"
+}
+},
+  {
+"name": "eventtypes",
+"id": "https://localhost:8089/services/properties/eventtypes",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/eventtypes"
+}
+},
+  {
+"name": "fields",
+"id": "https://localhost:8089/services/properties/fields",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/fields"
+}
+},
+  {
+"name": "indexes",
+"id": "https://localhost:8089/services/properties/indexes",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/indexes"
+}
+},
+  {
+"name": "inputs",
+"id": "https://localhost:8089/services/properties/inputs",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/inputs"
+}
+},
+  {
+"name": "launcher",
+"id": "https://localhost:8089/services/properties/launcher",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/launcher"
+}
+},
+  {
+"name": "limits",
+"id": "https://localhost:8089/services/properties/limits",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/limits"
+}
+},
+  {
+"name": "literals",
+"id": "https://localhost:8089/services/properties/literals",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/literals"
+}
+},
+  {
+"name": "livetail",
+"id": "https://localhost:8089/services/properties/livetail",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/livetail"
+}
+},
+  {
+"name": "lookups",
+"id": "https://localhost:8089/services/properties/lookups",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/lookups"
+}
+},
+  {
+"name": "macros",
+"id": "https://localhost:8089/services/properties/macros",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/macros"
+}
+},
+  {
+"name": "manager",
+"id": "https://localhost:8089/services/properties/manager",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/manager"
+}
+},
+  {
+"name": "messages",
+"id": "https://localhost:8089/services/properties/messages",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/messages"
+}
+},
+  {
+"name": "migration",
+"id": "https://localhost:8089/services/properties/migration",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/migration"
+}
+},
+  {
+"name": "models",
+"id": "https://localhost:8089/services/properties/models",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/models"
+}
+},
+  {
+"name": "multikv",
+"id": "https://localhost:8089/services/properties/multikv",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/multikv"
+}
+},
+  {
+"name": "nav",
+"id": "https://localhost:8089/services/properties/nav",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/nav"
+}
+},
+  {
+"name": "outputs",
+"id": "https://localhost:8089/services/properties/outputs",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/outputs"
+}
+},
+  {
+"name": "procmon-filters",
+"id": "https://localhost:8089/services/properties/procmon-filters",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/procmon-filters"
+}
+},
+  {
+"name": "props",
+"id": "https://localhost:8089/services/properties/props",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/props"
+}
+},
+  {
+"name": "quickstart",
+"id": "https://localhost:8089/services/properties/quickstart",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/quickstart"
+}
+},
+  {
+"name": "restmap",
+"id": "https://localhost:8089/services/properties/restmap",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/restmap"
+}
+},
+  {
+"name": "savedsearches",
+"id": "https://localhost:8089/services/properties/savedsearches",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/savedsearches"
+}
+},
+  {
+"name": "searchbnf",
+"id": "https://localhost:8089/services/properties/searchbnf",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/searchbnf"
+}
+},
+  {
+"name": "searchscripts",
+"id": "https://localhost:8089/services/properties/searchscripts",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/searchscripts"
+}
+},
+  {
+"name": "segmenters",
+"id": "https://localhost:8089/services/properties/segmenters",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/segmenters"
+}
+},
+  {
+"name": "server",
+"id": "https://localhost:8089/services/properties/server",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/server"
+}
+},
+  {
+"name": "serverclass",
+"id": "https://localhost:8089/services/properties/serverclass",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/serverclass"
+}
+},
+  {
+"name": "source-classifier",
+"id": "https://localhost:8089/services/properties/source-classifier",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/source-classifier"
+}
+},
+  {
+"name": "sourcetypes",
+"id": "https://localhost:8089/services/properties/sourcetypes",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/sourcetypes"
+}
+},
+  {
+"name": "splunk_monitoring_console_assets",
+"id": "https://localhost:8089/services/properties/splunk_monitoring_console_assets",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/splunk_monitoring_console_assets"
+}
+},
+  {
+"name": "telemetry",
+"id": "https://localhost:8089/services/properties/telemetry",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/telemetry"
+}
+},
+  {
+"name": "times",
+"id": "https://localhost:8089/services/properties/times",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/times"
+}
+},
+  {
+"name": "transactiontypes",
+"id": "https://localhost:8089/services/properties/transactiontypes",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/transactiontypes"
+}
+},
+  {
+"name": "transforms",
+"id": "https://localhost:8089/services/properties/transforms",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/transforms"
+}
+},
+  {
+"name": "ui-prefs",
+"id": "https://localhost:8089/services/properties/ui-prefs",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/ui-prefs"
+}
+},
+  {
+"name": "ui-tour",
+"id": "https://localhost:8089/services/properties/ui-tour",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/ui-tour"
+}
+},
+  {
+"name": "unix_setup",
+"id": "https://localhost:8089/services/properties/unix_setup",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/unix_setup"
+}
+},
+  {
+"name": "user-prefs",
+"id": "https://localhost:8089/services/properties/user-prefs",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/user-prefs"
+}
+},
+  {
+"name": "views",
+"id": "https://localhost:8089/services/properties/views",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/views"
+}
+},
+  {
+"name": "viewstates",
+"id": "https://localhost:8089/services/properties/viewstates",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/viewstates"
+}
+},
+  {
+"name": "visualizations",
+"id": "https://localhost:8089/services/properties/visualizations",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/visualizations"
+}
+},
+  {
+"name": "web",
+"id": "https://localhost:8089/services/properties/web",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/web"
+}
+},
+  {
+"name": "workflow_actions",
+"id": "https://localhost:8089/services/properties/workflow_actions",
+"updated": "1970-01-01T08:00:00+08:00",
+"links": {
+"alternate": "/services/properties/workflow_actions"
+}
+}
+],
+}

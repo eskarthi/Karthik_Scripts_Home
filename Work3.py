@@ -1,4 +1,5 @@
-from sys import argv
+#from sys import argv
+import sys
 import os.path
 import re
 
@@ -22,7 +23,7 @@ def readandprint (file):
 		#	printme ("regex is None")
 
 		
-	print ("number of lines:", count_lines)
+		print ("number of lines:", count_lines)
 		
 		#Eight_letter_word = regex.findall(line);
 		#print ("Matching lines.. ",Eight_letter_word)
