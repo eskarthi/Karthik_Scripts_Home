@@ -1,4 +1,4 @@
-
+﻿
 1) Impact due to non availability of Test environment of interfacing partners, cause delay in release/delivery life cycle
 2) Test Environment not aligned to IT Management & security policy - Perform continuous compliance check and Remediation
 3) Lack of environment Oversight eventually needs Some Clarity - Perform environments rationalization on certificate, license
@@ -21,19 +21,19 @@
 15)	through the completion of inCidents
 16)	need to be embellished a little
 17)	augment the team with right skill
-18)	I Would imagine that at preseht
+18)	I Would imagine that at preset
 19)	it has been concluded that the recertification 
 20) hasn't moved in-spite(despite) of follow—ups
-21)	I am contacting you in the event you can essist the Quality and Assurance team pertaining to the current applications 
+21)	I am contacting you in the event you can assist the Quality and Assurance team pertaining to the current applications 
 22) If you are not the correct person I should be contacting, please let me know who I should be reaching out too
 23) Thank your for your assistance, it is greatly appreciated.
 24)	The issue is compounded as, some of BISO requirements
-25)	Predominantly, we are observing regular misynderstanding
+25)	Predominantly, we are observing regular misunderstanding
 26)	Having long lead time delivery 
-27)	In order, to help towards avoiding such delays from occuring going forward
+27)	In order, to help towards avoiding such delays from occurring going forward
 28) let me know if you need any further information.
 29) Further to our conversation of 15th June, I am writing to arrange a meeting for you with ..
-30) Please note that i have attached draft contract for you to read and will send you the releated report as soon as it is complete.
+30) Please note that i have attached draft contract for you to read and will send you the related report as soon as it is complete.
 31) I look forward to hearing from you
 32) I'm looking forward to hearing what you think
 33)I’d be happy to do a quick review of it on the phone and answer any pending questions.
@@ -42,10 +42,18 @@
 36 ) I’ve tried to reach you a few times to go over suggestions on improving ___
 37) “I am contacting you as…” or “I am writing to you in reference to/regarding…
 38) I am afraid I will not be available to make it that day.
+39) Widens the definition of 
+40) Consent to only certain personal data can be withdrawn and not all. 
+41) Application team has bought up the fact that there is some expectation that starting in feb
+42) Upto this point, i believe that GFD application team has been reachout out to dba to create SQK scripts 
+43) application team felt, like when the time comes to do a large scale deployment, i.e. during a release event,
+44) A person,by the name of karthik was mentioned as someone that could be actively involved with release management in discussing the use of the new automation process.
+45) We may have certain nuances in our approaches
+
 
 o Karthik has set the context
-Q Kgrthik requested Neil to provide cönsulting support
-O'Karthik has added that there is an agreemené between
+Q Kgrthik requested Neil to provide consulting support
+O'Karthik has added that there is an agreement between
 
 My name is Karthik, as you may have heard, I have just been hired as the new technical consultant in release & deployment team(I will be taking the role of release and deployment manager starting 1st June.) I have 10+ years of experience in Java, ETL and related technologies and previsouly worked in Deutsche bank as Technology Manager. 
 
@@ -54,3 +62,5 @@ I am sending this email to introduce myself and share you my contact information
 I´m enthusiastic about joining this team and look forward to having the opportunity to meet you all in person.
 
 Please feel free to stop by my desk any time.
+
+
